@@ -64,6 +64,9 @@ source .venv/bin/activate
 
 # install a custom kernel to be used within vscode ..etc
 python -m ipykernel install --user --name="tf-workshop" --display-name "tf-workshop"
+
+jupyter kernelspec list  # verify kernel is successfully created
+
 ```
 
 #

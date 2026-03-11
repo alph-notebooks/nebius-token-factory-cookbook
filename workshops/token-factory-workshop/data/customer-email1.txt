@@ -1,3 +1,4 @@
+
 Hi Support Team,
 
 I honestly don’t even know where to start because this has been going on for weeks now, and every time I think it’s resolved, something else breaks. I’ve been trying to use your platform for what should be a very straightforward workflow — uploading data, running the processing job, exporting the report — and yet somehow every single step has turned into a separate support issue.
@@ -28,3 +29,4 @@ Looking forward to a substantive response.
 
 Best,
 Joe Simon
+joe@gmail.com
