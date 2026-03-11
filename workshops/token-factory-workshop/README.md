@@ -26,6 +26,10 @@ Extend LLMs capability by providing them with functions/tools.
 
 ## 5 - Agent: Research Agent with Tavily
 
+Build a research agent using Tavily.
+
+[search agent with Tavily](tavily-search.md)
+
 ## 6 - Fine Tuning Models
 
 ## 7 - Distilling Models
