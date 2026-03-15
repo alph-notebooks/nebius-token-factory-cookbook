@@ -101,6 +101,8 @@ Deploy trained models and monitor their performance in real time.
 
 Integrate models with **coding assistants** like Cline, Cursor and Claude Code.
 
+[coding integrations](../../coding/README.md)
+
 ---
 
 ## 6 - Fun and Games
