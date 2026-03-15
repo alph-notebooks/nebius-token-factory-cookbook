@@ -29,8 +29,9 @@ cd    token-factory-cookbook/workshops/token-factory-workshop
 
 Add `NEBIUS_API_KEY` and `TAVILY_API_KEY` to **Secrets**
 
-
-![](https://github.com/nebius/token-factory-cookbook/raw/main/images/google-colab-1.png)
+<kbd>
+<img src="https://github.com/nebius/token-factory-cookbook/raw/main/images/google-colab-1.png">
+</kbd>
 
 
 ### 4.2 - If running locally

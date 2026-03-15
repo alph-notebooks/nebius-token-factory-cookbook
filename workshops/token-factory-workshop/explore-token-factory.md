@@ -17,7 +17,9 @@ Login to your [Nebius Token Factory](https://tokenfactory.nebius.com/) account
 - Checkout prices and regions
 - Filter models by type 'text to text' ...etc
 
+<kbd>
 ![](images/models-1.png)
+</kbd>
 
 
 ## Step 3 - Go to playground
