@@ -26,12 +26,20 @@ We can fine tune models right from the UI in Token Factory.
 
 See screenshots for guidance:
 
-
+<kbd>
 <img src="images/fine-tuning-4.png" width="300px">
+</kbd>
 
+
+<kbd>
 <img src="images/fine-tuning-6.png" width="300px">
+</kbd>
 
+
+<kbd>
 <img src="images/fine-tuning-5.png" width="300px">
+</kbd>
+
 
 ## Exercise 2: Finetuning using API
 

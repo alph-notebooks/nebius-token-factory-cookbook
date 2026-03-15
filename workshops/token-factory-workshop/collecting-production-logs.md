@@ -17,8 +17,13 @@ With datalab, you can:
 
 [datalab documentation](https://docs.tokenfactory.nebius.com/data-lab/overview)
 
+<kbd>
 <img src="images/data-lab-1.png" width="400px">
+</kbd>
 
+<kbd>
+<img src="images/data-lab-2.png" width="400px">
+</kbd>
 
 ## Exercise 1: Collect inference logs
 
