@@ -16,6 +16,7 @@
   - [join link](https://discord.gg/sJvzdEDr)
   - [Nebius.Build.SF hackathon channel](https://discord.com/channels/1222156136380235877/1479546242307588276) - questions, finding teams ...etc
   - [Token Factory support](https://discord.com/channels/1222156136380235877/1387298727835861113)
+- Also see below for more [resources](#resources)
 
 ## Prerequisites
 
@@ -109,9 +110,20 @@ Integrate models with **coding assistants** like Cline, Cursor and Claude Code.
 
 A few experimental and creative examples to explore what else is possible.
 
+🐍 **[*snake game](../../fun/snake-game/README.md)** 🐍 - the classic snake game, but LLMs control the snakes in real time!
+
+🪿 **[Pelican riding a bicycle](../../fun/pelican-riding-bicycle/README.md)** - a fun 'vibe benchmark' to gauge model intelligence!
+
+<kbd>
+<img src="images/snake-game-1.png" width="400px">
+</kbd>
+
 ---
 
 ## Resources
+
+- [Token Factory cookbook](https://github.com/nebius/token-factory-cookbook/) - lots of examples
+- [dev.nebius.com](https://dev.nebius.com/): Hub or nebius developer resources
 
 ---
 
