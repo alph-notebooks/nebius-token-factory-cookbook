@@ -8,6 +8,12 @@
 
 - [Nebius Token Factory](https://tokenfactory.nebius.com/) account
 
+
+Demo:
+
+[![Alt text](https://img.youtube.com/vi/GMnURsOyeeo/0.jpg)](https://www.youtube.com/watch?v=GMnURsOyeeo)
+
+
 ## Step 1 - Login to Token Factory
 
 Login to your [Nebius Token Factory](https://tokenfactory.nebius.com/) account

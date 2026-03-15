@@ -13,7 +13,6 @@
 
 ## Example: Deploy a dedicated end point
 
- [![Alt text](https://img.youtube.com/vi/5NsvfFjShaY/0.jpg)](https://www.youtube.com/watch?v=5NsvfFjShaY)
 
  <kbd>
  <img src="images/dedicated-endpoint-1.png">
@@ -22,3 +21,12 @@
   <kbd>
  <img src="images/dedicated-endpoint-2.png">
  </kbd>
+
+ demos:
+
+ [![Alt text](https://img.youtube.com/vi/5NsvfFjShaY/0.jpg)](https://www.youtube.com/watch?v=5NsvfFjShaY)
+
+
+ [![Alt text](https://img.youtube.com/vi/4RlTHxu-CXo/0.jpg)](https://www.youtube.com/watch?v=4RlTHxu-CXo)
+
+
