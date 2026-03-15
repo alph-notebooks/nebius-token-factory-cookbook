@@ -75,7 +75,7 @@ In this section, we explore how to use models hosted on **Token Factory**.
 
 Next, we capture **real-world usage data** to improve model performance.
 
-➡️ **[Collecting Production Logs](collecting-production-logs.md)**
+➡️ [Collecting Production Logs](collecting-production-logs.md)
 
 ---
 

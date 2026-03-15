@@ -9,7 +9,7 @@ Train the models with production inference logs we collected.
 
 stock model + our data --> custom model
 
-<img src="images/fine-tuning-2.png" width="400px">
+<img src="images/fine-tuning-2.png" width="500px">
 
 ## Excercise 1: Fine tune a model
 

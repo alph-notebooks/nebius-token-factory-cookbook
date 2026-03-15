@@ -2,17 +2,18 @@
 
 In this tutorial, we demonstrate how to perform distillation using **Nebius Token Factory** to create a grammar-correcting model. We will:  
 
-1. Generate high-quality training data via batched LLM generation using the recently released **Qwen3-235B-A22B**.
-2. Fine-tune a **Qwen3-4B** non-reasoning student model using LoRA adapters  
-3. Deploy, evaluate and compare the distilled model with a 3.5x times larger model of this family, **Qwen3-14B**, using the most powerful open-source LLM to date, **DeepSeek-R1**, as evaluator.
+1. Generate high-quality training data via batched LLM generation using the recently released **Qwen/Qwen3-235B-A22B-Instruct-2507**.
+2. Fine-tune a **Qwen/Qwen3-30B-A3B-Instruct-2507** non-reasoning student model using LoRA adapters  
+3. Deploy, evaluate and compare the distilled model with a 3.5x times larger model of this family, **Qwen/Qwen3-30B-A3B-Instruct-2507**, using the most powerful open-source LLM to date, **deepseek-ai/DeepSeek-R1-0528**, as evaluator.
 
+- [Distillation Example](#distillation-example)
   - [Understanding Distillation](#understanding-distillation)
   - [1 - Setup](#1---setup)
   - [2 - Running the code](#2---running-the-code)
   - [3 - Generate Synthetic Data](#3---generate-synthetic-data)
   - [4 - Fine tuning](#4---fine-tuning)
   - [5 - Verifing the distilled model](#5---verifing-the-distilled-model)
-  - [6 - Your distilled model in Nebius Token Factory](#6---your-distilled-model-in-nebius-studio)
+  - [6 - Your distilled model in Nebius Token Factory](#6---your-distilled-model-in-nebius-token-factory)
   - [7 - Using your distilled model](#7---using-your-distilled-model)
   - [8 - Use the distilled model using an API](#8---use-the-distilled-model-using-an-api)
   - [References](#references)
